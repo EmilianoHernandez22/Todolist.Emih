@@ -1,2 +1,3 @@
 # todo-list-flask
-Proyecto de Flask demostrativo para IDGS
+Proyecto de Flask demostrativo Para Computo en la Nube
+
